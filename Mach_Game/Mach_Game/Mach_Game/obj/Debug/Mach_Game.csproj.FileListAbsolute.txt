@@ -1,0 +1,11 @@
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\bin\Debug\Mach_Game.exe.config
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\bin\Debug\Mach_Game.exe
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\bin\Debug\Mach_Game.pdb
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.csproj.AssemblyReference.cache
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.Form1.resources
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.Properties.Resources.resources
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.csproj.GenerateResource.cache
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.exe
+C:\Users\User\Mach_Game\Mach_Game\Mach_Game\obj\Debug\Mach_Game.pdb
